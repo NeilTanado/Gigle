@@ -1,0 +1,25 @@
+{
+  "name": "gigle",
+  "version": "1.0.0",
+  "description": "Untuk Test Gigle",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeilTanado/Gigle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeilTanado/Gigle/issues"
+  },
+  "homepage": "https://github.com/NeilTanado/Gigle#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.7"
+  }
+}
